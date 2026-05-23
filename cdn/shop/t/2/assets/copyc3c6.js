@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",function(){function copyURI(event){event.preventDefault(),navigator.clipboard.writeText(window.location.href);const shareButton=event.currentTarget;shareButton&&!shareButton.classList.contains("success")&&(shareButton.classList.add("success"),setTimeout(()=>{shareButton.classList.remove("success")},2e3))}document.querySelectorAll(".copy-btn").forEach(copyLink=>{copyLink.addEventListener("click",copyURI)})});
+//# sourceMappingURL=/cdn/shop/t/2/assets/copy.js.map?v=133939385145505020281767860006

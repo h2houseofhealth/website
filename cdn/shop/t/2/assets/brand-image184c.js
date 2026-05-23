@@ -1,0 +1,2 @@
+(()=>{const initSlider=()=>{document.querySelectorAll(".brand-list").forEach(el=>{const speed1=el.getAttribute("data-duration")*1e3;new Swiper(el,{slidesPerView:2,autoplay:{delay:0,disableOnInteraction:!1},allowTouchMove:!1,loop:!0,speed:speed1,breakpoints:{750:{slidesPerView:3},990:{slidesPerView:4},1200:{slidesPerView:6}}})})};document.addEventListener("DOMContentLoaded",function(){initSlider(),document.addEventListener("shopify:section:load",function(){initSlider()})})})();
+//# sourceMappingURL=/cdn/shop/t/2/assets/brand-image.js.map?v=158475171315786016261767860006

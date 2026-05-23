@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://h2houseofhealth.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://h2houseofhealth.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://h2houseofhealth.com/collections/all.atom"/>
+  <title>House of Health</title>
+  <updated>2026-02-06T17:14:14+05:30</updated>
+  <author>
+    <name>House of Health</name>
+  </author>
+  <entry>
+    <id>https://h2houseofhealth.com/products/7957291499638</id>
+    <published>2026-02-06T17:14:14+05:30</published>
+    <updated>2026-02-06T17:14:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://h2houseofhealth.com/products/spray-bottle"/>
+    <title>Spray Bottle</title>
+    <s:type></s:type>
+    <s:vendor>House of Health</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0677/6504/3318/files/WhatsApp_Image_2026-02-06_at_16.09.33.jpg?v=1770378138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>House of Health<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unlock the power of selective antioxidants. <span class="citation-15">The </span><b data-path-to-node="6" data-index-in-node="48"><span class="citation-15">IonFlow™</span></b><span class="citation-15 citation-end-15"> uses advanced Solid Polymer Electrolysis (SPE) and Proton Exchange Membrane (PEM) technology to infuse your drinking water with high concentrations of dissolved molecular hydrogen (<sup class="superscript" data-turn-source-index="1"><!----></sup></span><span class="math-inline" data-math="H_2" data-index-in-node="238">$H_2$</span><span class="citation-14 citation-end-14">).<sup class="superscript" data-turn-source-index="2"><!----></sup></span> <span class="citation-13 citation-end-13">It’s more than just water—it’s a proactive way to combat oxidative stress and boost your daily energy.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://h2houseofhealth.com/products/7957291499638</id>
+      <title>Default Title</title>
+      <s:price currency="INR">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://h2houseofhealth.com/products/7957291434102</id>
+    <published>2026-02-06T17:12:59+05:30</published>
+    <updated>2026-02-06T17:12:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://h2houseofhealth.com/products/molecular-hydrogen-water-bottles"/>
+    <title>Molecular Hydrogen Water Bottles</title>
+    <s:type></s:type>
+    <s:vendor>House of Health</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0677/6504/3318/files/WhatsApp_Image_2026-02-06_at_16.09.32_2.jpg?v=1770378113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>House of Health<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-path-to-node="0">Unlock the power of selective antioxidants.<span class="citation-15 citation-end-15">advanced Solid Polymer Electrolysis (SPE) and Proton Exchange Membrane (PEM) technology to infuse your drinking water with high concentrations of dissolved molecular hydrogen </span><span class="citation-14 citation-end-14">.<sup class="superscript" data-turn-source-index="2"><!----></sup></span> <span class="citation-13 citation-end-13">It’s more than just water—it’s a proactive way to combat oxidative stress and boost your daily energy.</span></p>
+<p data-path-to-node="6"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://h2houseofhealth.com/products/7957291434102</id>
+      <title>Default Title</title>
+      <s:price currency="INR">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://h2houseofhealth.com/products/7957289533558</id>
+    <published>2026-02-06T16:56:03+05:30</published>
+    <updated>2026-02-06T16:56:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://h2houseofhealth.com/products/hoodies"/>
+    <title>Hoodies</title>
+    <s:type></s:type>
+    <s:vendor>House of Health</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0677/6504/3318/files/WhatsAppImage2026-02-06at16.09.32_1.jpg?v=1770377146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>House of Health<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="">Meet the hoodie that understands the assignment.</span><span class=""> Engineered from a heavyweight 450 GSM organic cotton blend,</span><span class=""> the </span><b data-path-to-node="5" data-index-in-node="113" class="">Zenith</b><span class=""> offers a structured,</span><span class=""> premium silhouette without sacrificing that "lived-in" softness.</span><span class=""> Whether you're hitting the gym,</span><span class=""> the coffee shop,</span><span class=""> or the couch,</span><span class=""> this is your new uniform.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://h2houseofhealth.com/products/7957289533558</id>
+      <title>S</title>
+      <s:price currency="INR">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://h2houseofhealth.com/products/7957289533558</id>
+      <title>M</title>
+      <s:price currency="INR">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://h2houseofhealth.com/products/7957289533558</id>
+      <title>L</title>
+      <s:price currency="INR">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://h2houseofhealth.com/products/7957289533558</id>
+      <title>XL</title>
+      <s:price currency="INR">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://h2houseofhealth.com/products/7957289533558</id>
+      <title>2XL</title>
+      <s:price currency="INR">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
